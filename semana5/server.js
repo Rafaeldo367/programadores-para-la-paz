@@ -24,3 +24,7 @@ app.post('/reporte', (req, res) => {
     mensaje: mensaje
   });
 });
+
+app.listen(3000, () => {
+  console.log('Servidor ejecutándose en puerto 3000');
+});
