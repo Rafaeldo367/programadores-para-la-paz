@@ -1,0 +1,9 @@
+Al enviar la petición POST a la ruta http://localhost:3000/registro con el JSON estructurado, el servidor procesa los datos a través del middleware `express.json()` y los recibe en `req.body`. 
+
+Como respuesta, el servidor devuelve un estado HTTP 200 OK junto con un objeto JSON que confirma la recepción correcta de la información. El cuerpo de la respuesta contiene exactamente lo siguiente:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
