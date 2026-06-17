@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se ha detectado un bache de gran tamaño en la intersección de la Calle Principal con la Avenida Central, lo que genera riesgo de accidentes para la comunidad."
+}
