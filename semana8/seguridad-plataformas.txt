@@ -1,0 +1,5 @@
+1. Anonimizar o cifrar la información sensible de los miembros de la comunidad para evitar la suplantación de identidad o el acoso.
+2. Implementar políticas de contraseñas seguras y exigir autenticación de dos factores.
+3. Forzar el uso de protocolos cifrados como HTTPS y SSH para asegurar que los datos no sean interceptados en tránsito.
+4. Mantener un monitoreo constante de los logs del sistema para detectar comportamientos inusuales, intentos de fuerza bruta o accesos no autorizados.
+5. Asignar roles estrictos a los colaboradores, asegurando que cada persona tenga acceso únicamente a las herramientas y datos indispensables para su rol.
