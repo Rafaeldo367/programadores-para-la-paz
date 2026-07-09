@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero las tareas 1 y 3.
+
+¿Por qué son las más importantes?
+Porque sin el registro no hay datos reales con los que trabajar ni canal para captar las quejas de la gente. Y la alerta en Telegram es clave para que el equipo reaccione al instante sin tener que estar entrando a revisar una base de datos a cada rato. Con eso ya hay un circuito básico funcionando.
+
+Definición de terminado:
+Para mí, una tarea está terminada si cumple esto:
+1. El código o flujo funciona sin caerse y hace exactamente lo que pide la historia de usuario.
+2. Se probó con datos de prueba (falsos) y no arrojó errores en la consola ni en n8n.
+3. El archivo o código quedó guardado, documentado y subido al repositorio de Git.
