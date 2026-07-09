@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+El flujo se activa mediante un Webhook en n8n cuando un ciudadano llena el formulario web para reportar una falla en su comunidad.
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido: Se ha registrado una incidencia sobre [Tipo de falla]. Revisar el panel de control para asignación de tareas."
+
+¿Qué información no debería enviarse por seguridad?
+Por seguridad, jamás se deben enviar nombres de los denunciantes, números de cédula, teléfonos personales, direcciones exactas de casas ni contraseñas. El bot solo debe avisar que hay un caso nuevo de forma genérica.
