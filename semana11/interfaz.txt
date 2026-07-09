@@ -1,0 +1,5 @@
+La interfaz de la plataforma contaría con un panel principal donde se muestra la vista de causas disponibles en forma de tarjetas simples con su título, descripción y barrio. 
+
+Cada tarjeta incluirá un contador de apoyos numérico en tiempo real y un botón para apoyar la causa, el cual se deshabilitará si el usuario ya votó. Para los usuarios autenticados, habrá una sección con un formulario para crear una causa que pedirá únicamente el título, la descripción y el sector afectado. 
+
+El diseño visual será minimalista, priorizando la carga rápida y ocultando cualquier dato personal o de contacto de quienes subieron los reportes.
