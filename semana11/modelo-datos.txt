@@ -1,0 +1,36 @@
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- sector_barrio
+- fecha_creacion
+
+Propósito:
+Almacenar las iniciativas, quejas o proyectos comunitarios que los vecinos proponen para hacerles seguimiento público.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id 
+- causa_id 
+- usuario_id 
+- fecha_voto 
+
+Propósito:
+Registrar de forma única qué usuarios respaldan cada iniciativa para medir el impacto real y el interés de la comunidad sin duplicar votos.
+
+
+Entidad: Comentario
+
+Campos principales:
+- id 
+- causa_id 
+- usuario_id 
+- texto_comentario
+- fecha_publicacion
+
+Propósito:
+Permitir que los miembros del equipo o los vecinos aporten avances, suban enlaces de evidencias o dejen actualizaciones sobre el estado real de la causa.
