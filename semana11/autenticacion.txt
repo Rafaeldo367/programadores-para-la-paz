@@ -1,0 +1,5 @@
+El login es el filtro de entrada que sirve para verificar la identidad de una persona mediante sus credenciales antes de dejarla interactuar con el sistema. 
+
+En una plataforma comunitaria, proteger ciertas rutas sirve para que un usuario común o un tercero malintencionado no pueda borrar evidencias, modificar los reportes de otros vecinos o alterar las configuraciones del servidor. 
+
+Por seguridad, jamás se debe exponer públicamente información privada como hashes de contraseñas, números de cédula, correos electrónicos, teléfonos de los denunciantes, tokens de bots ni claves de API en las respuestas del servidor.
