@@ -1,0 +1,18 @@
+MODELO DE DATOS - PETICIÓN EN 3 CLICS
+
+Entidad: Causa
+id: Identificador único de la causa.
+titulo: El nombre corto de la problemática o petición.
+descripcion: Detalle de lo que se está solicitando y por qué.
+fecha_creacion: Día y hora en que se registró la causa.
+
+Para qué sirve: Almacena la información principal de la solicitud colectiva que la comunidad quiere visibilizar. Es el "núcleo" al cual se le sumarán los apoyos de la gente.
+
+
+Entidad: Apoyo
+id: Identificador único del registro de apoyo.
+causa_id: Relación con la causa que se está apoyando.
+iniciales_o_anonimo: Identificador seguro del ciudadano.
+fecha_apoyo: Día y hora en que se registró el clic de apoyo.
+
+Para qué sirve: Registra de manera segura y confidencial cada voto o firma que respalda una causa específica, permitiendo llevar el conteo real sin almacenar información personal sensible.
