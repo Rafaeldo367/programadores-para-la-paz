@@ -1,0 +1,7 @@
+Flujo del sistema "Petición en 3 Clics":
+
+1. Un ciudadano entra a la página y escribe una causa clara explicando un problema de su parque o barrio.
+2. La causa se guarda en el sistema para que todos la puedan ver en una lista.
+3. Otros vecinos entran a la plataforma, leen la causa y escriben su nombre de práctica para apoyarla.
+4. El sistema actualiza el contador de apoyos automáticamente y muestra los comentarios de la gente.
+5. Al final, el sistema genera un documento PDF formal con la petición y el total de apoyos para presentarlo a la alcaldía.
